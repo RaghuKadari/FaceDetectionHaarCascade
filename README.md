@@ -1,6 +1,6 @@
 # FaceDetectionHaarCascade
 
-# Pre-requists
+# Prerequisite
   * OpenCV
   * Python
   * HaarCascade Filters
